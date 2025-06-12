@@ -1,0 +1,210 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+.container{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+ .card{
+    height: 374.4px;
+    width: 250px;
+    box-shadow: 5px 5px 5px  gray;
+    border-radius: 10px;
+    transition: ease-in-out 0.3s;
+        background-color: rgb(242, 232, 193);
+
+}
+ .cardtop{
+    height: 150px;
+    width: 250px;
+    background: linear-gradient(to right, #00b09b,#96c932);
+    border-radius: 10px;
+}
+  .cardimage{
+background-image: url(IMG_20250228_090541.jpg);
+width: 100px;
+height:100px;
+background-size: cover;
+position:relative;
+border-radius: 50px;
+left: 70px;
+top: -50px;
+    background-color: rgb(242, 232, 193);
+
+}
+.cardcontain{
+    text-align: center;
+}
+#name{
+    position: relative;
+    top: -30px;
+    bottom: 0px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.web{
+    position:relative;
+    top: -18px;
+}
+.about{
+    position:relative;
+    top: -10px;
+}
+.cardbutton{
+    margin: 10px;
+    width: 100px;
+    padding: 5px;
+    position: relative;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+    font-size: 15px;
+    transition: ease-in-out 1s;
+}
+.cardbutton:hover{
+    background-color: #00b09b;
+    border-radius: 20px;
+    padding : 5px;
+    transition: 1s;
+}
+.card:hover{
+    margin-top: -10px;
+    transition: 0.3s;
+} 
+/* card2 */
+.card2{
+    height: 374.4px;
+    width: 250px;
+    box-shadow: 5px 5px 5px gray;
+    border-radius: 10px;
+    transition: ease-in-out 0.3s;
+        background-color: rgb(242, 232, 193);
+
+}
+ .cardtop2{
+    height: 150px;
+    width: 250px;
+    background: linear-gradient(to right, #ee0979,#ff6a00);
+    border-radius: 10px;
+}
+  .cardimage2{
+background-image: url(IMG_20250205_174904.jpg);
+width: 100px;
+height:100px;
+background-size: cover;
+position:relative;
+border-radius: 50px;
+left: 70px;
+top: -50px;
+}
+.cardcontain2{
+    text-align: center;
+}
+#name2{
+    position: relative;
+    top: -30px;
+    bottom: 0px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.web2{
+    position:relative;
+    top: -18px;
+
+}
+.about2{
+    position:relative;
+    top: -10px;
+}
+.cardbutton2{
+    margin: 10px;
+    width: 100px;
+    padding: 5px;
+    position: relative;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+    font-size: 15px;
+    transition: ease-in-out 1s;
+}
+.cardbutton2:hover{
+    background-color: #ee0979;
+    border-radius: 20px;
+    padding : 5px;
+    transition: 1s;
+}
+.card2:hover{
+    margin-top: -10px;
+    transition: 0.3s;
+}
+/* crd3 */
+.card3{
+    height: 374.4px;
+    width: 250px;
+    box-shadow: 5px 5px 5px gray;
+    border-radius: 10px;
+    transition: ease-in-out 0.3s;
+        background-color: rgb(242, 232, 193);
+
+}
+ .cardtop3{
+    height: 150px;
+    width: 250px;
+    background: linear-gradient(to right, #00b09b,#96c932);
+    border-radius: 10px;
+}
+  .cardimage3{
+background-image: url(IMG_20240709_150541.jpg);
+width: 100px;
+height:100px;
+background-size: cover;
+position:relative;
+border-radius: 50px;
+left: 70px;
+top: -50px;
+}
+.cardcontain3{
+    text-align: center;
+}
+#name3{
+    position: relative;
+    top: -30px;
+    bottom: 0px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.web3{
+    position:relative;
+    top: -18px;
+
+}
+.about3{
+    position:relative;
+    top: -10px;
+    
+}
+.cardbutton3{
+    margin: 10px;
+    width: 100px;
+    padding: 5px;
+    position: relative;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+    font-size: 15px;
+    transition: ease-in-out 1s;
+}
+.cardbutton3:hover{
+    background-color: #00b09b;
+    border-radius: 20px;
+    padding : 5px;
+    transition: 1s;
+}
+.card3:hover{
+    margin-top: -10px;
+    transition: 0.3s;
+}
